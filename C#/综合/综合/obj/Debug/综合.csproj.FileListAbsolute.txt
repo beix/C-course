@@ -1,0 +1,11 @@
+C:\Users\asus\Desktop\新建文件夹 (2)\综合\综合\bin\Debug\综合.exe.config
+C:\Users\asus\Desktop\新建文件夹 (2)\综合\综合\bin\Debug\综合.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\综合\综合\bin\Debug\综合.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\综合\综合\obj\Debug\综合.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\新建文件夹 (2)\综合\综合\obj\Debug\综合.Properties.Resources.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\综合\综合\obj\Debug\综合.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\新建文件夹 (2)\综合\综合\obj\Debug\综合.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\综合\综合\obj\Debug\综合.pdb
+E:\学期资料\大二上学习资料\..C#程序\C#\综合\综合\bin\Debug\综合.exe.config
+E:\学期资料\大二上学习资料\..C#程序\C#\综合\综合\obj\Debug\综合.exe
+E:\学期资料\大二上学习资料\..C#程序\C#\综合\综合\obj\Debug\综合.pdb

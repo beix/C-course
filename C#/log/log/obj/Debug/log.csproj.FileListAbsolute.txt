@@ -1,0 +1,48 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\log\bin\Debug\log.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\log\obj\Debug\log.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\log\obj\Debug\log.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\log\obj\Debug\log.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\log\obj\Debug\log.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\log\bin\Debug\log.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\log\bin\Debug\log.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\log\obj\Debug\log.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\log\obj\Debug\log.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\log\obj\Debug\log.Form2.resources
+C:\Users\Administrator\Desktop\log\log\bin\Debug\log.exe.config
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.exe
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.pdb
+C:\Users\Administrator\Desktop\log\log\bin\Debug\log.exe
+C:\Users\Administrator\Desktop\log\log\bin\Debug\log.pdb
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.Form2.resources
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.Properties.Resources.resources
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.ChildWins.resources
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.LogWins.resources
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.AdministratorWins.resources
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.CashierName.resources
+I:\新建文件夹\log\log\bin\Debug\log.exe.config
+I:\新建文件夹\log\log\obj\Debug\log.exe
+I:\新建文件夹\log\log\obj\Debug\log.pdb
+I:\新建文件夹\log\log\bin\Debug\log.exe
+I:\新建文件夹\log\log\bin\Debug\log.pdb
+I:\新建文件夹\log\log\obj\Debug\log.csprojResolveAssemblyReference.cache
+I:\新建文件夹\log\log\obj\Debug\log.AdministratorWins.resources
+I:\新建文件夹\log\log\obj\Debug\log.CashierName.resources
+I:\新建文件夹\log\log\obj\Debug\log.ChildWins.resources
+I:\新建文件夹\log\log\obj\Debug\log.LogWins.resources
+I:\新建文件夹\log\log\obj\Debug\log.Form2.resources
+I:\新建文件夹\log\log\obj\Debug\log.Properties.Resources.resources
+I:\新建文件夹\log\log\obj\Debug\log.csproj.GenerateResource.Cache
+C:\Users\sjm\Desktop\log\log\bin\Debug\log.exe.config
+C:\Users\sjm\Desktop\log\log\obj\Debug\log.exe
+C:\Users\sjm\Desktop\log\log\obj\Debug\log.pdb
+C:\Users\sjm\Desktop\log\log\bin\Debug\log.exe
+C:\Users\sjm\Desktop\log\log\bin\Debug\log.pdb
+C:\Users\sjm\Desktop\log\log\obj\Debug\log.csprojResolveAssemblyReference.cache
+C:\Users\sjm\Desktop\log\log\obj\Debug\log.AdministratorWins.resources
+C:\Users\sjm\Desktop\log\log\obj\Debug\log.CashierName.resources
+C:\Users\sjm\Desktop\log\log\obj\Debug\log.ChildWins.resources
+C:\Users\sjm\Desktop\log\log\obj\Debug\log.LogWins.resources
+C:\Users\sjm\Desktop\log\log\obj\Debug\log.Properties.Resources.resources
+C:\Users\sjm\Desktop\log\log\obj\Debug\log.csproj.GenerateResource.Cache

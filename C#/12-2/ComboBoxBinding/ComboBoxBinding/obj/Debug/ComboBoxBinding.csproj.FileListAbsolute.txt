@@ -1,0 +1,8 @@
+C:\Users\asus\Desktop\12-2\ComboBoxBinding\ComboBoxBinding\bin\Debug\ComboBoxBinding.exe.config
+C:\Users\asus\Desktop\12-2\ComboBoxBinding\ComboBoxBinding\bin\Debug\ComboBoxBinding.exe
+C:\Users\asus\Desktop\12-2\ComboBoxBinding\ComboBoxBinding\bin\Debug\ComboBoxBinding.pdb
+C:\Users\asus\Desktop\12-2\ComboBoxBinding\ComboBoxBinding\obj\Debug\ComboBoxBinding.Form1.resources
+C:\Users\asus\Desktop\12-2\ComboBoxBinding\ComboBoxBinding\obj\Debug\ComboBoxBinding.Properties.Resources.resources
+C:\Users\asus\Desktop\12-2\ComboBoxBinding\ComboBoxBinding\obj\Debug\ComboBoxBinding.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\12-2\ComboBoxBinding\ComboBoxBinding\obj\Debug\ComboBoxBinding.exe
+C:\Users\asus\Desktop\12-2\ComboBoxBinding\ComboBoxBinding\obj\Debug\ComboBoxBinding.pdb

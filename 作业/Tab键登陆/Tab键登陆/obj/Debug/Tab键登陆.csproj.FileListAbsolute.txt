@@ -1,0 +1,26 @@
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\bin\Debug\Tab键登陆.exe.config
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\bin\Debug\Resources\首页.png
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\bin\Debug\Tab键登陆.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\bin\Debug\Tab键登陆.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\obj\Debug\Tab键登陆.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\obj\Debug\Tab键登陆.LoginForm.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\obj\Debug\Tab键登陆.Properties.Resources.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\obj\Debug\Tab键登陆.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\obj\Debug\Tab键登陆.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\obj\Debug\Tab键登陆.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\bin\Debug\App.config
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\bin\Debug\LoginForm.cs
+C:\Users\asus\Desktop\新建文件夹 (2)\Tab键登陆\Tab键登陆\bin\Debug\LoginForm.Designer.cs
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\bin\Debug\Tab键登陆.exe.config
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\obj\Debug\Tab键登陆.exe
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\obj\Debug\Tab键登陆.pdb
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\bin\Debug\Resources\首页.png
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\bin\Debug\LoginForm.cs
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\bin\Debug\LoginForm.Designer.cs
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\bin\Debug\App.config
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\bin\Debug\Tab键登陆.exe
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\bin\Debug\Tab键登陆.pdb
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\obj\Debug\Tab键登陆.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\obj\Debug\Tab键登陆.LoginForm.resources
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\obj\Debug\Tab键登陆.Properties.Resources.resources
+C:\Users\asus\Desktop\C#程序\作业\Tab键登陆\Tab键登陆\obj\Debug\Tab键登陆.csproj.GenerateResource.Cache

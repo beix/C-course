@@ -1,0 +1,9 @@
+private void ll_Login_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            MessageBox.Show("这是一个超链接");
+
+            Exercise testForm = new Exercise();
+
+            testForm.Show();         // 非模态窗口
+            //testForm.ShowDialog(); // 模态窗口
+        }

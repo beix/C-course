@@ -1,0 +1,52 @@
+C:\Users\Administrator\Desktop\log\log\bin\Debug\log.exe.config
+C:\Users\Administrator\Desktop\log\log\bin\Debug\log.exe
+C:\Users\Administrator\Desktop\log\log\bin\Debug\log.pdb
+C:\Users\Administrator\Desktop\log\log\obj\Debug\StudentAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.AdministratorWins.resources
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.AmendPassword.resources
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.CashierName.resources
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.ChildWins.resources
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.LogWins.resources
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.Properties.Resources.resources
+C:\Users\Administrator\Desktop\log\log\obj\Debug\StudentAdmin.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.exe
+C:\Users\Administrator\Desktop\log\log\obj\Debug\log.pdb
+G:\log\log\bin\Debug\log.exe.config
+G:\log\log\obj\Debug\log.exe
+G:\log\log\obj\Debug\log.pdb
+C:\Users\asus\Desktop\log\log\bin\Debug\log.exe.config
+C:\Users\asus\Desktop\log\log\obj\Debug\log.exe
+C:\Users\asus\Desktop\log\log\obj\Debug\log.pdb
+C:\Users\asus\Desktop\log\log\bin\Debug\log.exe
+C:\Users\asus\Desktop\log\log\obj\Debug\StudentAdmin.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\log\log\obj\Debug\log.AdministratorWins.resources
+C:\Users\asus\Desktop\log\log\obj\Debug\log.AmendPassword.resources
+C:\Users\asus\Desktop\log\log\obj\Debug\log.CashierName.resources
+C:\Users\asus\Desktop\log\log\obj\Debug\log.ChildWins.resources
+C:\Users\asus\Desktop\log\log\obj\Debug\log.LogWins.resources
+C:\Users\asus\Desktop\log\log\obj\Debug\log.Properties.Resources.resources
+C:\Users\asus\Desktop\log\log\obj\Debug\StudentAdmin.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\log\log\bin\Debug\log.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\bin\Debug\log.exe.config
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\bin\Debug\log.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\bin\Debug\log.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\StudentAdmin.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.AdministratorWins.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.AmendPassword.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.LogWins.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.Properties.Resources.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\StudentAdmin.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.CashierCX.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.CashierWins.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.Cashierxg.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.Formtj.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.AboutBox1.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\bin\Debug\log.exe.manifest
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\bin\Debug\log.application
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.exe.manifest
+C:\Users\asus\Desktop\新建文件夹 (2)\log\log\obj\Debug\log.application
+E:\..C#\新建文件夹 (2)\log\log\bin\Debug\log.exe.config
+E:\..C#\新建文件夹 (2)\log\log\obj\Debug\log.exe
+E:\..C#\新建文件夹 (2)\log\log\obj\Debug\log.pdb

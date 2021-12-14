@@ -1,0 +1,49 @@
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe.config
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\bin\Debug\Resources\首页.png
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\bin\Debug\SuperMarketSales.pdb
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.LoginForm.resources
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.MainFormAdmin.resources
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.MainFormUser.resources
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.ModifyForm.resources
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.Properties.Resources.resources
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.PwdForm.resources
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.QueryForm.resources
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.RecordForm.resources
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.RecordFormExt.resources
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.exe
+C:\Users\asus\Desktop\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe.config
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\bin\Debug\Resources\首页.png
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\bin\Debug\SuperMarketSales.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.LoginForm.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.MainFormAdmin.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.MainFormUser.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.ModifyForm.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.Properties.Resources.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.PwdForm.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.QueryForm.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.RecordForm.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.RecordFormExt.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.csproj.GenerateResource.Cache
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe.config
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.exe
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.pdb
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\bin\Debug\Resources\首页.png
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\bin\Debug\SuperMarketSales.pdb
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.csprojResolveAssemblyReference.cache
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.LoginForm.resources
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.MainFormAdmin.resources
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.MainFormUser.resources
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.ModifyForm.resources
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.Properties.Resources.resources
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.PwdForm.resources
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.QueryForm.resources
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.RecordForm.resources
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.RecordFormExt.resources
+E:\学期资料\大二上学习资料\..C#程序\C#\任务2.8 商品信息查询修改界面功能设计(2)\SuperMarketSales2.8.2\SuperMarketSales\obj\Debug\SuperMarketSales.csproj.GenerateResource.Cache

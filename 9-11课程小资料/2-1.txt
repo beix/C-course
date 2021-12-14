@@ -1,0 +1,10 @@
+ private void Exercise_MouseMove(object sender, MouseEventArgs e)
+        {
+            // 通过代码动态修改控件内容
+            this.label1.Text = e.Location.X + ", " + e.Location.Y;
+        }
+
+        private void Exercise_Load(object sender, EventArgs e)
+        {
+
+        }

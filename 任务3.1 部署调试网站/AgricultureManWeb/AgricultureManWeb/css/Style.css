@@ -1,0 +1,98 @@
+﻿
+
+.tdl { width:80px;  text-align:right; font:normal 14px 宋体 bold;color:#fff;}
+.txt { width:200px; height:30px; line-height:30px; }
+
+.welcome { margin:10px auto auto 10px; color:#fff;}
+
+
+.header{
+	background-color:#f7f7f7; width:100%; border-bottom:#629356 solid 1px;
+}
+.floatrigth{
+	float:right;
+}
+
+.Title{
+	height:30px;
+	font-weight:bold;
+}
+
+.InputButton{
+	background-color:#f0f3f8;
+	border:1px solid #b7babc;	
+	color:#000;
+	cursor:pointer;
+	overflow:visible;
+	width:auto;
+	font-weight:bold;
+	
+	white-space:nowrap;	
+	padding:4px 15px;
+	/*for ie6*/
+	_height:22px;
+	_line-height:22px;
+	_padding:0 15px;
+	vertical-align:middle;  
+	border-radius: 3px;
+    -moz-border-radius: 3px;
+}
+.InputButtonHover{
+	background-color:#e4f6e6;
+	border:1px solid #99ccff;	
+	color:#000;
+	cursor:pointer;
+	overflow:visible;
+	width:auto;
+	font-weight:bold;
+	
+	white-space:nowrap;	
+	padding:4px 15px;
+	/*for ie6*/
+	_height:22px;
+	_line-height:22px;
+	_padding:0 15px;
+	vertical-align:middle;  
+	border-radius: 3px;
+    -moz-border-radius: 3px;
+	margin:0 10px 10px 0;
+}
+
+/* Control */
+.Control{
+	width:405px;
+	background:url(../Images/Control_bg.gif) no-repeat;
+	padding:10px;
+}
+.ControlInfo{
+	height:145px;
+}
+.ControlInfoDetail{
+	height:145px;
+}
+/* Detail */
+.SensorDetail{
+	width:465px;
+	background:url(../images/SensorDetail_bg.gif) no-repeat;
+	padding:10px;
+}
+.SensorInfo{
+	height:145px;
+	background-color:#FFF;
+	-moz-border-radius: 4px;
+}
+.SensorInfo table{
+	width:100%;
+}
+.SensorInfo th{
+	height:30px;
+	text-align:left;
+	word-wrap:break-word;
+	padding:5px;
+}
+.SensorInfo td{
+	height:30px;
+	text-align:left;
+	word-wrap:break-word;
+	color:#009dff;
+}

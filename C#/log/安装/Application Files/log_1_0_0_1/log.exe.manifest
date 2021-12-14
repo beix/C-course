@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="log.exe" version="1.0.0.1" publicKeyToken="a08dedc185367c8a" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="favicon-20191125085552916.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="log" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="log.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+          如果要更改 Windows 用户帐户控制级别，请用以下节点之一替换
+          requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+          如果要利用文件和注册表虚拟化提供
+          向后兼容性，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="log.exe" size="617472">
+      <assemblyIdentity name="log" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>CGnlkWZ9Q8w17sQNk2+o09eGcRugYTsc+7ASsKJ6WPY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="favicon-20191125085552916.ico" size="1150">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8SmYLEoTtxcQr0YbFG6Wd3ECWxI5miUCtH+rzd3OQP4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="log.exe.config" size="401">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PqFKc9UBMMOZnmHem2xU8C7XZuVi1IqwMOcq6drybYM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-TB2OJBH0\asus" issuerKeyHash="db19d4076d8908dbb5e78e78135aee755fc8527b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>8P26jFv0hSFKm5wjEpnXzMFvRY/Sxg9EaIXijSYMFjw=</DigestValue></Reference></SignedInfo><SignatureValue>OiXxJ65Oluip4KxKsKKPuQxb5HmcXPHT4LnjBLRRNGrcuFRsNHJG+tFtIRJKbNCMKsGVYfjH6PfaSCPk4IBfpHdj8NsxpM0Es4Y6HvErK2MD36in5lPazAvqCgtUrHB5VXH2LhCHgmP+KNrLlHdetJrWdggC06PtBUgqHZI+NIA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>u0D71kVBlwY8ik/A/FCqGvN6Jz+JkLBx6HJ70jTJBPBjjHF/rZzOxQ8EVewDr1k+s7PkI9/p+MnUI3z/uqyuRGyQCnx0eYd6FWUsS6vMKS0DlTq8FbZ0s0yiVFW/7bOyl1h2midTfu3A87lY/rdCevG08UkrzsNJYRSg1ia1fOk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3c160c268de28568440fc6d28f456fc1ccd79912239c9b4a2185f45b8cbafdf0" Description="" Url=""><as:assemblyIdentity name="log.exe" version="1.0.0.1" publicKeyToken="a08dedc185367c8a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-TB2OJBH0\asus</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+iGJWCAGMx2GDcwt57uwGajpkxxXWJ8OIWFqBUL2e+M=</DigestValue></Reference></SignedInfo><SignatureValue>KiA8Q9ppCLOwQNcszwy60gFNeXCLDnJ2lU97+mvt6CoEGzEm5JQX+t+34hptiRQJPMYLPOJ5ACYBjeM8/V3IBQ54DAV1zlTqkhTjvxOyJLU7qNW9Uy5M6CiipRh9zwwhRTcCCbDsn5dydl7GuoRNQZqbFLJora/Ty2mxsz+KFLU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>u0D71kVBlwY8ik/A/FCqGvN6Jz+JkLBx6HJ70jTJBPBjjHF/rZzOxQ8EVewDr1k+s7PkI9/p+MnUI3z/uqyuRGyQCnx0eYd6FWUsS6vMKS0DlTq8FbZ0s0yiVFW/7bOyl1h2midTfu3A87lY/rdCevG08UkrzsNJYRSg1ia1fOk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQF11yfXGTs6hMHhDPQQfh1zANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigATABBAFAAVABPAFAALQBUAEIAMgBPAEoAQgBIADAAXABhAHMAdQBzMB4XDTE5MTEyNTAxMjg0MFoXDTIwMTEyNDA3Mjg0MFowMzExMC8GA1UEAx4oAEwAQQBQAFQATwBQAC0AVABCADIATwBKAEIASAAwAFwAYQBzAHUAczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAu0D71kVBlwY8ik/A/FCqGvN6Jz+JkLBx6HJ70jTJBPBjjHF/rZzOxQ8EVewDr1k+s7PkI9/p+MnUI3z/uqyuRGyQCnx0eYd6FWUsS6vMKS0DlTq8FbZ0s0yiVFW/7bOyl1h2midTfu3A87lY/rdCevG08UkrzsNJYRSg1ia1fOkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQCa17JgdhxeP3giwe7VBEzGIHmpQe0y1F9wAk8WtGElgKJwkpLS6bUxiXhGf9eFeBkzGLuqVZ6Pr7DReIf4B27FQ412hOeEQSQYnTYCH1fb8HGQvvkyBlvuN5007oL1PF28v/Sai5dARxB4oT1UYzmePnkGHTaz3hMTFG1mT+wpNQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

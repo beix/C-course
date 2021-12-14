@@ -1,0 +1,11 @@
+H:\电子校\课程相关\期末上交教学材料—《物联网应用系统设计与维护》\4. PPT\项目二 智慧社区商超管理系统设计与开发\任务2.2 系统登录界面的制作(4)\SuperMarketSales2.2.4\SuperMarketSales\bin\Debug\SuperMarketSales.exe.config
+C:\Users\asus\Desktop\任务2.2 系统登录界面的制作(4)\SuperMarketSales2.2.4\SuperMarketSales\bin\Debug\SuperMarketSales.exe.config
+C:\Users\asus\Desktop\任务2.2 系统登录界面的制作(4)\SuperMarketSales2.2.4\SuperMarketSales\bin\Debug\Resources\首页.png
+C:\Users\asus\Desktop\任务2.2 系统登录界面的制作(4)\SuperMarketSales2.2.4\SuperMarketSales\bin\Debug\SuperMarketSales.exe
+C:\Users\asus\Desktop\任务2.2 系统登录界面的制作(4)\SuperMarketSales2.2.4\SuperMarketSales\bin\Debug\SuperMarketSales.pdb
+C:\Users\asus\Desktop\任务2.2 系统登录界面的制作(4)\SuperMarketSales2.2.4\SuperMarketSales\obj\Debug\SuperMarketSales.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\任务2.2 系统登录界面的制作(4)\SuperMarketSales2.2.4\SuperMarketSales\obj\Debug\SuperMarketSales.LoginForm.resources
+C:\Users\asus\Desktop\任务2.2 系统登录界面的制作(4)\SuperMarketSales2.2.4\SuperMarketSales\obj\Debug\SuperMarketSales.Properties.Resources.resources
+C:\Users\asus\Desktop\任务2.2 系统登录界面的制作(4)\SuperMarketSales2.2.4\SuperMarketSales\obj\Debug\SuperMarketSales.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\任务2.2 系统登录界面的制作(4)\SuperMarketSales2.2.4\SuperMarketSales\obj\Debug\SuperMarketSales.exe
+C:\Users\asus\Desktop\任务2.2 系统登录界面的制作(4)\SuperMarketSales2.2.4\SuperMarketSales\obj\Debug\SuperMarketSales.pdb

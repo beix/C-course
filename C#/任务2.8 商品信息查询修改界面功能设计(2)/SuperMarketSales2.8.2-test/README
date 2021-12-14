@@ -1,0 +1,6 @@
+## 教学用智慧商超收银系统
+
+## 使用步骤
+
+1. 在 SQL Server 2008 中新建数据库 SuperMarketSales，导入 db/SuperMarketSales.sql
+2. 编译执行项目

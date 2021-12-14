@@ -1,0 +1,8 @@
+C:\Users\asus\Desktop\第四周第二次课\（TextBox&Button）SuperMarketSales2.2.2\SuperMarketSales2.2.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe.config
+C:\Users\asus\Desktop\第四周第二次课\（TextBox&Button）SuperMarketSales2.2.2\SuperMarketSales2.2.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe
+C:\Users\asus\Desktop\第四周第二次课\（TextBox&Button）SuperMarketSales2.2.2\SuperMarketSales2.2.2\SuperMarketSales\bin\Debug\SuperMarketSales.pdb
+C:\Users\asus\Desktop\第四周第二次课\（TextBox&Button）SuperMarketSales2.2.2\SuperMarketSales2.2.2\SuperMarketSales\obj\Debug\SuperMarketSales.LoginForm.resources
+C:\Users\asus\Desktop\第四周第二次课\（TextBox&Button）SuperMarketSales2.2.2\SuperMarketSales2.2.2\SuperMarketSales\obj\Debug\SuperMarketSales.Properties.Resources.resources
+C:\Users\asus\Desktop\第四周第二次课\（TextBox&Button）SuperMarketSales2.2.2\SuperMarketSales2.2.2\SuperMarketSales\obj\Debug\SuperMarketSales.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\第四周第二次课\（TextBox&Button）SuperMarketSales2.2.2\SuperMarketSales2.2.2\SuperMarketSales\obj\Debug\SuperMarketSales.exe
+C:\Users\asus\Desktop\第四周第二次课\（TextBox&Button）SuperMarketSales2.2.2\SuperMarketSales2.2.2\SuperMarketSales\obj\Debug\SuperMarketSales.pdb

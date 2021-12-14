@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\新建文件夹 (2)\第一次\第一次\bin\Debug\第一次.exe.config
+C:\Users\asus\Desktop\新建文件夹 (2)\第一次\第一次\bin\Debug\第一次.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\第一次\第一次\bin\Debug\第一次.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\第一次\第一次\obj\Debug\第一次.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\新建文件夹 (2)\第一次\第一次\obj\Debug\第一次.Form1.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\第一次\第一次\obj\Debug\第一次.Properties.Resources.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\第一次\第一次\obj\Debug\第一次.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\新建文件夹 (2)\第一次\第一次\obj\Debug\第一次.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\第一次\第一次\obj\Debug\第一次.pdb
+C:\Users\asus\Desktop\C#程序\第一次\第一次\bin\Debug\第一次.exe.config
+C:\Users\asus\Desktop\C#程序\第一次\第一次\obj\Debug\第一次.exe
+C:\Users\asus\Desktop\C#程序\第一次\第一次\obj\Debug\第一次.pdb

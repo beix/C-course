@@ -1,0 +1,63 @@
+#region Windows 窗体设计器生成的代码
+
+        /// <summary>
+        /// 设计器支持所需的方法 - 不要
+        /// 使用代码编辑器修改此方法的内容。
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Welcome));
+            this.ll_Login = new System.Windows.Forms.LinkLabel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // ll_Login
+            // 
+            this.ll_Login.AutoSize = true;
+            this.ll_Login.BackColor = System.Drawing.Color.Transparent;
+            this.ll_Login.Font = new System.Drawing.Font("微软雅黑", 15.73109F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.ll_Login.Location = new System.Drawing.Point(332, 64);
+            this.ll_Login.Name = "ll_Login";
+            this.ll_Login.Size = new System.Drawing.Size(145, 35);
+            this.ll_Login.TabIndex = 1;
+            this.ll_Login.TabStop = true;
+            this.ll_Login.Text = "这是什么？";
+            this.ll_Login.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.ll_Login_LinkClicked);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.Font = new System.Drawing.Font("Consolas", 15.73109F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Black;
+            this.label1.Location = new System.Drawing.Point(119, 68);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(180, 32);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Hello World";
+            // 
+            // Welcome
+            // 
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(641, 406);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.ll_Login);
+            this.DoubleBuffered = true;
+            this.ForeColor = System.Drawing.Color.White;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "Welcome";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "智慧社区商超收银系统";
+            this.TransparencyKey = System.Drawing.Color.White;
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.LinkLabel ll_Login;
+        private System.Windows.Forms.Label label1;

@@ -1,0 +1,20 @@
+C:\Users\asus\Desktop\新建文件夹 (2)\窗口\窗口\bin\Debug\窗口.exe.config
+C:\Users\asus\Desktop\新建文件夹 (2)\窗口\窗口\bin\Debug\窗口.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\窗口\窗口\bin\Debug\窗口.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\窗口\窗口\obj\Debug\窗口.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\新建文件夹 (2)\窗口\窗口\obj\Debug\窗口.MDI窗口示例.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\窗口\窗口\obj\Debug\窗口.Properties.Resources.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\窗口\窗口\obj\Debug\窗口.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\新建文件夹 (2)\窗口\窗口\obj\Debug\窗口.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\窗口\窗口\obj\Debug\窗口.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\窗口\窗口\obj\Debug\窗口.FormChild.resources
+C:\Users\asus\Desktop\C#程序\作业\窗口\窗口\bin\Debug\窗口.exe.config
+C:\Users\asus\Desktop\C#程序\作业\窗口\窗口\obj\Debug\窗口.exe
+C:\Users\asus\Desktop\C#程序\作业\窗口\窗口\obj\Debug\窗口.pdb
+C:\Users\asus\Desktop\C#程序\作业\窗口\窗口\bin\Debug\窗口.exe
+C:\Users\asus\Desktop\C#程序\作业\窗口\窗口\bin\Debug\窗口.pdb
+C:\Users\asus\Desktop\C#程序\作业\窗口\窗口\obj\Debug\窗口.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C#程序\作业\窗口\窗口\obj\Debug\窗口.FormChild.resources
+C:\Users\asus\Desktop\C#程序\作业\窗口\窗口\obj\Debug\窗口.MDI窗口示例.resources
+C:\Users\asus\Desktop\C#程序\作业\窗口\窗口\obj\Debug\窗口.Properties.Resources.resources
+C:\Users\asus\Desktop\C#程序\作业\窗口\窗口\obj\Debug\窗口.csproj.GenerateResource.Cache

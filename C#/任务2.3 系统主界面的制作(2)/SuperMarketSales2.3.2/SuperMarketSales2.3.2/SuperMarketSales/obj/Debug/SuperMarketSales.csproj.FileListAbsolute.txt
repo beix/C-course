@@ -1,0 +1,32 @@
+H:\电子校\课程相关\期末上交教学材料—《物联网应用系统设计与维护》\4. PPT\项目二 智慧社区商超管理系统设计与开发\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe.config
+H:\电子校\课程相关\期末上交教学材料—《物联网应用系统设计与维护》\4. PPT\项目二 智慧社区商超管理系统设计与开发\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe
+H:\电子校\课程相关\期末上交教学材料—《物联网应用系统设计与维护》\4. PPT\项目二 智慧社区商超管理系统设计与开发\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\bin\Debug\SuperMarketSales.pdb
+H:\电子校\课程相关\期末上交教学材料—《物联网应用系统设计与维护》\4. PPT\项目二 智慧社区商超管理系统设计与开发\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.LoginForm.resources
+H:\电子校\课程相关\期末上交教学材料—《物联网应用系统设计与维护》\4. PPT\项目二 智慧社区商超管理系统设计与开发\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.MainFormAdmin.resources
+H:\电子校\课程相关\期末上交教学材料—《物联网应用系统设计与维护》\4. PPT\项目二 智慧社区商超管理系统设计与开发\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.MainFormUser.resources
+H:\电子校\课程相关\期末上交教学材料—《物联网应用系统设计与维护》\4. PPT\项目二 智慧社区商超管理系统设计与开发\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.Properties.Resources.resources
+H:\电子校\课程相关\期末上交教学材料—《物联网应用系统设计与维护》\4. PPT\项目二 智慧社区商超管理系统设计与开发\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.csproj.GenerateResource.Cache
+H:\电子校\课程相关\期末上交教学材料—《物联网应用系统设计与维护》\4. PPT\项目二 智慧社区商超管理系统设计与开发\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.exe
+H:\电子校\课程相关\期末上交教学材料—《物联网应用系统设计与维护》\4. PPT\项目二 智慧社区商超管理系统设计与开发\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.pdb
+C:\Users\asus\Desktop\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe.config
+C:\Users\asus\Desktop\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.exe
+C:\Users\asus\Desktop\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.pdb
+C:\Users\asus\Desktop\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe
+C:\Users\asus\Desktop\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\bin\Debug\SuperMarketSales.pdb
+C:\Users\asus\Desktop\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.LoginForm.resources
+C:\Users\asus\Desktop\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.MainFormAdmin.resources
+C:\Users\asus\Desktop\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.MainFormUser.resources
+C:\Users\asus\Desktop\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.Properties.Resources.resources
+C:\Users\asus\Desktop\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe.config
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\bin\Debug\SuperMarketSales.exe
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\bin\Debug\SuperMarketSales.pdb
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.LoginForm.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.MainFormAdmin.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.MainFormUser.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.Properties.Resources.resources
+C:\Users\asus\Desktop\新建文件夹 (2)\任务2.3 系统主界面的制作(2)\SuperMarketSales2.3.2\SuperMarketSales2.3.2\SuperMarketSales\obj\Debug\SuperMarketSales.csproj.GenerateResource.Cache

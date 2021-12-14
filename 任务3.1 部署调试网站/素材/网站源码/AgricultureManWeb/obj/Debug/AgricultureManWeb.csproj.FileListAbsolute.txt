@@ -1,0 +1,17 @@
+E:\教学\NET-2017-2018-2\课件\项目3 智能大棚管理系统网站的设计与维护\用户登录Web\obj\Debug\WebApplication1.dll
+E:\教学\NET-2017-2018-2\课件\项目3 智能大棚管理系统网站的设计与维护\用户登录Web\bin\WebApplication1.dll
+E:\教学\NET-2017-2018-2\课件\项目3 智能大棚管理系统网站的设计与维护\用户登录Web\bin\WebApplication1.pdb
+E:\教学\NET-2017-2018-2\课件\项目3 智能大棚管理系统网站的设计与维护\用户登录Web\bin\log4net.dll
+E:\教学\NET-2017-2018-2\课件\项目3 智能大棚管理系统网站的设计与维护\用户登录Web\obj\Debug\WebApplication1.pdb
+E:\教学\NET-2017-2018-2\课件\项目3 智能大棚管理系统网站的设计与维护\AgricultureManWeb\bin\WebApplication1.dll
+E:\教学\NET-2017-2018-2\课件\项目3 智能大棚管理系统网站的设计与维护\AgricultureManWeb\bin\WebApplication1.pdb
+E:\教学\NET-2017-2018-2\课件\项目3 智能大棚管理系统网站的设计与维护\AgricultureManWeb\bin\log4net.dll
+E:\教学\NET-2017-2018-2\课件\项目3 智能大棚管理系统网站的设计与维护\AgricultureManWeb\obj\Debug\AgricultureManWeb.csprojResolveAssemblyReference.cache
+E:\教学\NET-2017-2018-2\课件\项目3 智能大棚管理系统网站的设计与维护\AgricultureManWeb\obj\Debug\WebApplication1.dll
+E:\教学\NET-2017-2018-2\课件\项目3 智能大棚管理系统网站的设计与维护\AgricultureManWeb\obj\Debug\WebApplication1.pdb
+C:\Users\asus\Desktop\任务3.1 部署调试网站\素材\网站源码\AgricultureManWeb\bin\WebApplication1.dll
+C:\Users\asus\Desktop\任务3.1 部署调试网站\素材\网站源码\AgricultureManWeb\bin\WebApplication1.pdb
+C:\Users\asus\Desktop\任务3.1 部署调试网站\素材\网站源码\AgricultureManWeb\bin\log4net.dll
+C:\Users\asus\Desktop\任务3.1 部署调试网站\素材\网站源码\AgricultureManWeb\obj\Debug\AgricultureManWeb.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\任务3.1 部署调试网站\素材\网站源码\AgricultureManWeb\obj\Debug\WebApplication1.dll
+C:\Users\asus\Desktop\任务3.1 部署调试网站\素材\网站源码\AgricultureManWeb\obj\Debug\WebApplication1.pdb

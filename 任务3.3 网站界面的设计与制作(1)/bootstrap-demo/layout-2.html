@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LayoutTest</title>
+    <link href="css/bootstrap.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<p>container-fluid在任何时候充满整个浏览器宽度。</p>
+<p>container是固定大小的，以576px, 768px, 992px, 1200px为限，在不同分辨率下展现不同的固定宽度。</p>
+<ul>
+    <li>当屏幕小于576px时，container为屏幕最大宽度</li>
+    <li>当屏幕介于[576px, 768px)时，container宽度为540px</li>
+    <li>当屏幕介于[768px, 992px)时，container宽度为720px</li>
+    <li>当屏幕介于[992px, 1200px)时，container宽度为960px</li>
+    <li>当屏幕大于等于1200px时，container宽度为1140px</li>
+</ul>
+<p>行均使用.row样式，而列则根据不同设备的尺寸或者不同分辨率设置不同的样式，优先考虑尺寸，比如手机，分辨率虽然高达2560x1440，但尺寸小，所以堆叠的情况比较多：</p>
+<ul>
+    <li>.col-*: 优先考虑手机的布局。其次，当屏幕小于 576px 时布局生效</li>
+    <li>.col-sm-*: 优先考虑平板的布局。其次，当屏幕大于等于 576px 时布局生效</li>
+    <li>.col-md-*: 当屏幕大于等于 768px 时布局生效</li>
+    <li>.col-lg-*: 当屏幕大于等于 992px 时布局生效</li>
+    <li>.col-xl-*: 当屏幕大于等于 1200px 时布局生效</li>
+</ul>
+<p>这些类的意思通俗点说就是，当你同时使用这些类的时候，它会根据你的屏幕大小来使相应的类生效。</p>
+<p><strong>当条件同时满足时，先满足大的，再满足小的，所以上述列表中，越靠后优先级越高。</strong></p>
+<p>下面的示例，在手机上的显示效果全部为堆叠，因为手机尺寸小。而在电脑上，调整浏览器的大小则会有不同的效果</p>
+<hr>
+<p>此例不仅设置了.col-lg-*，还设置了.col-md-*，所以，当宽度小于768px时，会出现默认的堆叠效果; 当宽度介于[768, 992)时，会采用col-md-*的栅格排列; 当宽度大于等于992px时，采用col-lg-*的栅格排列。</p>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-6 col-md-4" style="background-color: lightgreen">col-lg-4 col-md-4</div>
+        <div class="col-lg-6 col-md-8" style="background-color: sandybrown">col-lg-8 col-md-8</div>
+    </div>
+    <div class="row">
+        <div class="col-lg-3 col-md-4" style="background-color: lightgreen">col-lg-4 col-md-4</div>
+        <div class="col-lg-6 col-md-4" style="background-color: sandybrown">col-lg-4 col-md-4</div>
+        <div class="col-lg-3 col-md-4" style="background-color: aliceblue">col-lg-4 col-md-4</div>
+    </div>
+    <div class="row">
+        <div class="col-lg-4 col-md-3" style="background-color: lightgreen">col-lg-3 col-md-3</div>
+        <div class="col-lg-4 col-md-6" style="background-color: sandybrown">col-lg-6 col-md-6</div>
+        <div class="col-lg-4 col-md-3" style="background-color: aliceblue">col-lg-3 col-md-3</div>
+    </div>
+</div>
+<br>
+<pre style="border: 1px solid;">
+&lt;div class="container-fluid"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-lg-6 col-md-4" style="background-color: lightgreen"&gt;col-lg-4 col-md-4&lt;/div&gt;
+        &lt;div class="col-lg-6 col-md-8" style="background-color: sandybrown"&gt;col-lg-8 col-md-8&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-lg-3 col-md-4" style="background-color: lightgreen"&gt;col-lg-4 col-md-4&lt;/div&gt;
+        &lt;div class="col-lg-6 col-md-4" style="background-color: sandybrown"&gt;col-lg-4 col-md-4&lt;/div&gt;
+        &lt;div class="col-lg-3 col-md-4" style="background-color: aliceblue"&gt;col-lg-4 col-md-4&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-lg-4 col-md-3" style="background-color: lightgreen"&gt;col-lg-3 col-md-3&lt;/div&gt;
+        &lt;div class="col-lg-4 col-md-6" style="background-color: sandybrown"&gt;col-lg-6 col-md-6&lt;/div&gt;
+        &lt;div class="col-lg-4 col-md-3" style="background-color: aliceblue"&gt;col-lg-3 col-md-3&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</pre>
+</body>
+</html>
